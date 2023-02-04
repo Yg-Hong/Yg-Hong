@@ -17,8 +17,6 @@
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=white"/></a>
   
   <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=Spring&logoColor=white"/></a>
-  <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=SpringBoot&logoColor=white"/></a>
-    <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=SpringBoot&logoColor=white"/></a>
   <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat&logo=SpringBoot&logoColor=white"/></a>
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white"/></a>
   <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=React&logoColor=white"/></a>
