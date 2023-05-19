@@ -30,5 +30,7 @@
 
 
   [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FYg-Hong&count_bg=%231727B0&title_bg=%23888783&icon=git.svg&icon_color=%23E7E7E7&title=hits%F0%9F%94%A5&edge_flat=false)](https://hits.seeyoufarm.com)
+  
+  [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=ryan0077v)](https://solved.ac/ryan0077v/)
  
 </div>
