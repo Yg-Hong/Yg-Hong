@@ -1,6 +1,4 @@
 <div align='center'>
-  <!-- 여기에 내용을!! -->
-
   ![header](https://capsule-render.vercel.app/api?type=soft&color=auto&height=300&section=header&text=YgHong%20(Aiden)&fontSize=90)
 
   ## 👋Hi there👋
@@ -19,9 +17,9 @@
   ## 🏆Award🏆
   |no.|수상명|수상일시|
   |------|---|---|
-  |1|삼성청년 SW 아카데미 공통프로젝트 우수상(1위)|2024.02|
-  |2|삼성청년 SW 아카데미 특화프로젝트 우수상(2위)|2024.04|
   |3|삼성청년 SW 아카데미 자율프로젝트 우수상(3위)|2024.05|
+  |2|삼성청년 SW 아카데미 특화프로젝트 우수상(2위)|2024.04|
+  |1|삼성청년 SW 아카데미 공통프로젝트 우수상(1위)|2024.02|
 
   ## 📚Certificate📚
   |no.|자격증 명|등급|만료일자|
