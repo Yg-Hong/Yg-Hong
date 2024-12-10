@@ -60,8 +60,8 @@
   ### Cloud
   ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 
-  ### ML & DS
-  Dacon 출격 대기
+  ### DevOps
+  ![kubernetes](https://img.shields.io/badge/kubernetes-%23326CE5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
   
   ## 📏Algorithm📏
 
