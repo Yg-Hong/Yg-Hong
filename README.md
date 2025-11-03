@@ -5,8 +5,6 @@
   ## 👋Hi there👋
   I'm Yungi, Hong and my english name is Aiden.
   
-  Now, I'm working at a "ICTK", and in charge of 'quantum resistant VPN' development.
-  
   **Git Stat**
   
   [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Yg-Hong)](https://github.com/anuraghazra/github-readme-stats)
